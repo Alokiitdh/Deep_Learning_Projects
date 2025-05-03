@@ -1,0 +1,5 @@
+torch
+torchvision
+gradio
+Pillow
+scikit-learn
